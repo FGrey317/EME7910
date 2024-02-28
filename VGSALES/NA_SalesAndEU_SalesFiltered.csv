@@ -1,0 +1,353 @@
+"","Rank","Name","Platform","Year","Genre","Publisher","NA_Sales","EU_Sales","JP_Sales","Other_Sales","Global_Sales"
+"1",1,"Wii Sports","Wii",2006,"Sports","Nintendo",41.49,29.02,3.77,8.46,82.74
+"2",2,"Super Mario Bros.","NES",1985,"Platform","Nintendo",29.08,3.58,6.81,0.77,40.24
+"3",3,"Mario Kart Wii","Wii",2008,"Racing","Nintendo",15.85,12.88,3.79,3.31,35.82
+"4",4,"Wii Sports Resort","Wii",2009,"Sports","Nintendo",15.75,11.01,3.28,2.96,33
+"5",5,"Pokemon Red/Pokemon Blue","GB",1996,"Role-Playing","Nintendo",11.27,8.89,10.22,1,31.37
+"6",6,"Tetris","GB",1989,"Puzzle","Nintendo",23.2,2.26,4.22,0.58,30.26
+"7",7,"New Super Mario Bros.","DS",2006,"Platform","Nintendo",11.38,9.23,6.5,2.9,30.01
+"8",8,"Wii Play","Wii",2006,"Misc","Nintendo",14.03,9.2,2.93,2.85,29.02
+"9",9,"New Super Mario Bros. Wii","Wii",2009,"Platform","Nintendo",14.59,7.06,4.7,2.26,28.62
+"10",11,"Nintendogs","DS",2005,"Simulation","Nintendo",9.07,11,1.93,2.75,24.76
+"11",12,"Mario Kart DS","DS",2005,"Racing","Nintendo",9.81,7.57,4.13,1.92,23.42
+"12",13,"Pokemon Gold/Pokemon Silver","GB",1999,"Role-Playing","Nintendo",9,6.18,7.2,0.71,23.1
+"13",14,"Wii Fit","Wii",2007,"Sports","Nintendo",8.94,8.03,3.6,2.15,22.72
+"14",15,"Wii Fit Plus","Wii",2009,"Sports","Nintendo",9.09,8.59,2.53,1.79,22
+"15",16,"Kinect Adventures!","X360",2010,"Misc","Microsoft Game Studios",14.97,4.94,0.24,1.67,21.82
+"16",17,"Grand Theft Auto V","PS3",2013,"Action","Take-Two Interactive",7.01,9.27,0.97,4.14,21.4
+"17",19,"Super Mario World","SNES",1990,"Platform","Nintendo",12.78,3.75,3.54,0.55,20.61
+"18",20,"Brain Age: Train Your Brain in Minutes a Day","DS",2005,"Misc","Nintendo",4.75,9.26,4.16,2.05,20.22
+"19",21,"Pokemon Diamond/Pokemon Pearl","DS",2006,"Role-Playing","Nintendo",6.42,4.52,6.04,1.37,18.36
+"20",22,"Super Mario Land","GB",1989,"Platform","Nintendo",10.83,2.71,4.18,0.42,18.14
+"21",23,"Super Mario Bros. 3","NES",1988,"Platform","Nintendo",9.54,3.44,3.84,0.46,17.28
+"22",24,"Grand Theft Auto V","X360",2013,"Action","Take-Two Interactive",9.63,5.31,0.06,1.38,16.38
+"23",25,"Grand Theft Auto: Vice City","PS2",2002,"Action","Take-Two Interactive",8.41,5.49,0.47,1.78,16.15
+"24",26,"Pokemon Ruby/Pokemon Sapphire","GBA",2002,"Role-Playing","Nintendo",6.06,3.9,5.38,0.5,15.85
+"25",27,"Pokemon Black/Pokemon White","DS",2010,"Role-Playing","Nintendo",5.57,3.28,5.65,0.82,15.32
+"26",28,"Brain Age 2: More Training in Minutes a Day","DS",2005,"Puzzle","Nintendo",3.44,5.36,5.32,1.18,15.3
+"27",29,"Gran Turismo 3: A-Spec","PS2",2001,"Racing","Sony Computer Entertainment",6.85,5.09,1.87,1.16,14.98
+"28",30,"Call of Duty: Modern Warfare 3","X360",2011,"Shooter","Activision",9.03,4.28,0.13,1.32,14.76
+"29",31,"Pokémon Yellow: Special Pikachu Edition","GB",1998,"Role-Playing","Nintendo",5.89,5.04,3.12,0.59,14.64
+"30",32,"Call of Duty: Black Ops","X360",2010,"Shooter","Activision",9.67,3.73,0.11,1.13,14.64
+"31",33,"Pokemon X/Pokemon Y","3DS",2013,"Role-Playing","Nintendo",5.17,4.05,4.34,0.79,14.35
+"32",34,"Call of Duty: Black Ops 3","PS4",2015,"Shooter","Activision",5.77,5.81,0.35,2.31,14.24
+"33",35,"Call of Duty: Black Ops II","PS3",2012,"Shooter","Activision",4.99,5.88,0.65,2.52,14.03
+"34",36,"Call of Duty: Black Ops II","X360",2012,"Shooter","Activision",8.25,4.3,0.07,1.12,13.73
+"35",37,"Call of Duty: Modern Warfare 2","X360",2009,"Shooter","Activision",8.52,3.63,0.08,1.29,13.51
+"36",38,"Call of Duty: Modern Warfare 3","PS3",2011,"Shooter","Activision",5.54,5.82,0.49,1.62,13.46
+"37",39,"Grand Theft Auto III","PS2",2001,"Action","Take-Two Interactive",6.99,4.51,0.3,1.3,13.1
+"38",40,"Super Smash Bros. Brawl","Wii",2008,"Fighting","Nintendo",6.75,2.61,2.66,1.02,13.04
+"39",41,"Call of Duty: Black Ops","PS3",2010,"Shooter","Activision",5.98,4.44,0.48,1.83,12.73
+"40",42,"Animal Crossing: Wild World","DS",2005,"Simulation","Nintendo",2.55,3.52,5.33,0.88,12.27
+"41",43,"Mario Kart 7","3DS",2011,"Racing","Nintendo",4.74,3.91,2.67,0.89,12.21
+"42",44,"Halo 3","X360",2007,"Shooter","Microsoft Game Studios",7.97,2.83,0.13,1.21,12.14
+"43",45,"Grand Theft Auto V","PS4",2014,"Action","Take-Two Interactive",3.8,5.81,0.36,2.02,11.98
+"44",46,"Pokemon HeartGold/Pokemon SoulSilver","DS",2009,"Action","Nintendo",4.4,2.77,3.96,0.77,11.9
+"45",47,"Super Mario 64","N64",1996,"Platform","Nintendo",6.91,2.85,1.91,0.23,11.89
+"46",49,"Super Mario Galaxy","Wii",2007,"Platform","Nintendo",6.16,3.4,1.2,0.76,11.52
+"47",50,"Pokemon Omega Ruby/Pokemon Alpha Sapphire","3DS",2014,"Role-Playing","Nintendo",4.23,3.37,3.08,0.65,11.33
+"48",51,"Super Mario Land 2: 6 Golden Coins","GB",1992,"Adventure","Nintendo",6.16,2.04,2.69,0.29,11.18
+"49",52,"Grand Theft Auto IV","X360",2008,"Action","Take-Two Interactive",6.76,3.1,0.14,1.03,11.02
+"50",53,"Gran Turismo","PS",1997,"Racing","Sony Computer Entertainment",4.02,3.87,2.54,0.52,10.95
+"51",54,"Super Mario 3D Land","3DS",2011,"Platform","Nintendo",4.89,2.99,2.13,0.78,10.79
+"52",55,"Gran Turismo 5","PS3",2010,"Racing","Sony Computer Entertainment",2.96,4.88,0.81,2.12,10.77
+"53",56,"Call of Duty: Modern Warfare 2","PS3",2009,"Shooter","Activision",4.99,3.69,0.38,1.63,10.69
+"54",57,"Grand Theft Auto IV","PS3",2008,"Action","Take-Two Interactive",4.76,3.76,0.44,1.62,10.57
+"55",58,"Super Mario All-Stars","SNES",1993,"Platform","Nintendo",5.99,2.15,2.12,0.29,10.55
+"56",59,"Pokemon FireRed/Pokemon LeafGreen","GBA",2004,"Role-Playing","Nintendo",4.34,2.65,3.15,0.35,10.49
+"57",60,"Super Mario 64","DS",2004,"Platform","Nintendo",5.08,3.11,1.25,0.98,10.42
+"58",61,"Just Dance 3","Wii",2011,"Misc","Ubisoft",6.05,3.15,0,1.07,10.26
+"59",62,"Call of Duty: Ghosts","X360",2013,"Shooter","Activision",6.72,2.63,0.04,0.82,10.21
+"60",63,"Halo: Reach","X360",2010,"Shooter","Microsoft Game Studios",7.03,1.98,0.08,0.78,9.88
+"61",64,"Mario Kart 64","N64",1996,"Racing","Nintendo",5.55,1.94,2.23,0.15,9.87
+"62",65,"New Super Mario Bros. 2","3DS",2012,"Platform","Nintendo",3.66,3.07,2.47,0.63,9.82
+"63",66,"Halo 4","X360",2012,"Shooter","Microsoft Game Studios",6.63,2.36,0.04,0.73,9.76
+"64",67,"Final Fantasy VII","PS",1997,"Role-Playing","Sony Computer Entertainment",3.01,2.47,3.28,0.96,9.72
+"65",68,"Call of Duty: Ghosts","PS3",2013,"Shooter","Activision",4.09,3.73,0.38,1.38,9.59
+"66",69,"Just Dance 2","Wii",2010,"Misc","Ubisoft",5.84,2.89,0.01,0.78,9.52
+"67",70,"Gran Turismo 2","PS",1999,"Racing","Sony Computer Entertainment",3.88,3.42,1.69,0.5,9.49
+"68",71,"Call of Duty 4: Modern Warfare","X360",2007,"Shooter","Activision",5.91,2.38,0.13,0.9,9.32
+"69",72,"Donkey Kong Country","SNES",1994,"Platform","Nintendo",4.36,1.71,3,0.23,9.3
+"70",73,"Minecraft","X360",2013,"Misc","Microsoft Game Studios",5.58,2.83,0.02,0.77,9.2
+"71",74,"Animal Crossing: New Leaf","3DS",2012,"Simulation","Nintendo",2.01,2.32,4.36,0.41,9.09
+"72",75,"Mario Party DS","DS",2007,"Misc","Nintendo",4.46,1.88,1.98,0.7,9.02
+"73",76,"The Elder Scrolls V: Skyrim","X360",2011,"Role-Playing","Bethesda Softworks",5.03,2.86,0.1,0.85,8.84
+"74",77,"Super Mario Kart","SNES",1992,"Racing","Nintendo",3.54,1.24,3.81,0.18,8.76
+"75",78,"FIFA 16","PS4",2015,"Sports","Electronic Arts",1.11,6.06,0.06,1.26,8.49
+"76",79,"Wii Party","Wii",2010,"Misc","Nintendo",1.79,3.53,2.49,0.68,8.49
+"77",80,"Halo 2","XB",2004,"Shooter","Microsoft Game Studios",6.82,1.53,0.05,0.08,8.49
+"78",81,"Mario Party 8","Wii",2007,"Misc","Nintendo",3.81,2.3,1.58,0.73,8.42
+"79",82,"Pokemon Black 2/Pokemon White 2","DS",2012,"Role-Playing","Nintendo",2.91,1.86,3.14,0.43,8.33
+"80",83,"FIFA Soccer 13","PS3",2012,"Action","Electronic Arts",1.06,5.05,0.13,2.01,8.24
+"81",85,"GoldenEye 007","N64",1997,"Shooter","Nintendo",5.8,2.01,0.13,0.15,8.09
+"82",86,"Mario & Sonic at the Olympic Games","Wii",2007,"Sports","Sega",2.58,3.9,0.66,0.91,8.06
+"83",87,"Final Fantasy X","PS2",2001,"Role-Playing","Sony Computer Entertainment",2.91,2.07,2.73,0.33,8.05
+"84",88,"Final Fantasy VIII","PS",1999,"Role-Playing","SquareSoft",2.28,1.72,3.63,0.23,7.86
+"85",89,"Pokémon Platinum Version","DS",2008,"Role-Playing","Nintendo",2.82,1.78,2.69,0.55,7.84
+"86",91,"Grand Theft Auto: Liberty City Stories","PSP",2005,"Action","Take-Two Interactive",2.9,2.83,0.24,1.75,7.72
+"87",92,"Super Mario Galaxy 2","Wii",2010,"Platform","Nintendo",3.66,2.42,0.98,0.64,7.69
+"88",93,"Star Wars Battlefront (2015)","PS4",2015,"Shooter","Electronic Arts",2.93,3.29,0.22,1.23,7.67
+"89",94,"Call of Duty: Advanced Warfare","PS4",2014,"Shooter","Activision",2.8,3.3,0.14,1.37,7.6
+"90",95,"The Legend of Zelda: Ocarina of Time","N64",1998,"Action","Nintendo",4.1,1.89,1.45,0.16,7.6
+"91",96,"Crash Bandicoot 2: Cortex Strikes Back","PS",1997,"Platform","Sony Computer Entertainment",3.78,2.17,1.31,0.31,7.58
+"92",97,"Super Mario Bros. 2","NES",1988,"Platform","Nintendo",5.39,1.18,0.7,0.19,7.46
+"93",98,"Super Smash Bros. for Wii U and 3DS","3DS",2014,"Fighting","Nintendo",3.24,1.35,2.42,0.43,7.45
+"94",99,"Call of Duty: World at War","X360",2008,"Shooter","Activision",4.79,1.9,0,0.69,7.37
+"95",100,"Battlefield 3","X360",2011,"Shooter","Electronic Arts",4.46,2.13,0.06,0.69,7.34
+"96",101,"The Legend of Zelda: Twilight Princess","Wii",2006,"Action","Nintendo",3.83,2.19,0.6,0.7,7.31
+"97",102,"Call of Duty: Black Ops 3","XOne",2015,"Shooter","Activision",4.52,2.09,0.01,0.67,7.3
+"98",103,"Just Dance","Wii",2009,"Misc","Ubisoft",3.51,3.03,0,0.73,7.27
+"99",104,"Battlefield 3","PS3",2011,"Shooter","Electronic Arts",2.85,2.93,0.35,1.1,7.23
+"100",105,"Need for Speed Underground","PS2",2003,"Racing","Electronic Arts",3.27,2.83,0.08,1.02,7.2
+"101",106,"Tekken 3","PS",1998,"Fighting","Sony Computer Entertainment",3.27,2.22,1.4,0.29,7.16
+"102",107,"Crash Bandicoot 3: Warped","PS",1998,"Platform","Sony Computer Entertainment",3.68,1.75,1.42,0.28,7.13
+"103",108,"Super Smash Bros. Melee","GC",2001,"Fighting","Nintendo",4.41,1.04,1.39,0.22,7.07
+"104",109,"Mario Kart 8","WiiU",2014,"Racing","Nintendo",3.13,2.07,1.27,0.49,6.96
+"105",110,"Fallout 4","PS4",2015,"Role-Playing","Bethesda Softworks",2.47,3.15,0.24,1.1,6.96
+"106",111,"Mario Kart: Double Dash!!","GC",2003,"Racing","Nintendo",4.12,1.77,0.87,0.19,6.95
+"107",112,"Just Dance 4","Wii",2012,"Misc","Ubisoft",4.14,2.21,0,0.56,6.91
+"108",114,"Need for Speed Underground 2","PS2",2004,"Racing","Electronic Arts",2.71,3.02,0.08,1.09,6.9
+"109",115,"Medal of Honor: Frontline","PS2",2002,"Shooter","Electronic Arts",2.93,2.75,0.17,0.99,6.83
+"110",116,"Uncharted 3: Drake's Deception","PS3",2011,"Action","Sony Computer Entertainment",2.77,2.8,0.19,1.06,6.83
+"111",117,"Crash Bandicoot","PS",1996,"Platform","Sony Computer Entertainment",3.23,2.35,0.94,0.3,6.82
+"112",118,"Zumba Fitness","Wii",2010,"Sports","505 Games",3.5,2.64,0,0.67,6.81
+"113",119,"Gears of War 2","X360",2008,"Shooter","Microsoft Game Studios",4.15,1.92,0.06,0.64,6.76
+"114",120,"Uncharted 2: Among Thieves","PS3",2009,"Action","Sony Computer Entertainment",3.27,2.25,0.21,1,6.73
+"115",121,"Call of Duty 4: Modern Warfare","PS3",2007,"Shooter","Activision",3.1,2.3,0.28,1.04,6.72
+"116",123,"Big Brain Academy","DS",2005,"Misc","Nintendo",1.67,2.78,1.6,0.62,6.67
+"117",124,"Red Dead Redemption","PS3",2010,"Action","Take-Two Interactive",2.79,2.61,0.17,1.03,6.6
+"118",126,"Donkey Kong Country Returns","Wii",2010,"Platform","Nintendo",3.25,1.84,1.03,0.47,6.59
+"119",127,"The Elder Scrolls V: Skyrim","PS3",2011,"Role-Playing","Bethesda Softworks",2.55,2.71,0.25,1.05,6.56
+"120",129,"Assassin's Creed III","PS3",2012,"Action","Ubisoft",2.64,2.56,0.16,1.14,6.5
+"121",130,"Halo: Combat Evolved","XB",2001,"Shooter","Microsoft Game Studios",4.98,1.3,0.08,0.07,6.43
+"122",131,"Pokémon Emerald Version","GBA",2004,"Role-Playing","Nintendo",2.57,1.58,2.06,0.21,6.41
+"123",132,"Kingdom Hearts","PS2",2002,"Role-Playing","Sony Computer Entertainment",3.64,1.2,1.49,0.07,6.4
+"124",133,"Pokémon Crystal Version","GB",2000,"Role-Playing","Nintendo",2.55,1.56,1.29,0.99,6.39
+"125",134,"Halo 3: ODST","X360",2009,"Shooter","Microsoft Game Studios",4.34,1.35,0.06,0.61,6.36
+"126",135,"Red Dead Redemption","X360",2010,"Action","Take-Two Interactive",3.7,1.97,0.09,0.57,6.34
+"127",136,"Super Mario Sunshine","GC",2002,"Platform","Nintendo",4.01,1.26,0.87,0.17,6.31
+"128",139,"Driver","PS",1999,"Action","GT Interactive",3.11,2.8,0.02,0.33,6.27
+"129",140,"Kinect Sports","X360",2010,"Sports","Microsoft Game Studios",3.92,1.78,0.03,0.51,6.24
+"130",141,"Gears of War 3","X360",2011,"Shooter","Microsoft Game Studios",4.05,1.62,0.07,0.49,6.24
+"131",142,"Gears of War","X360",2006,"Shooter","Microsoft Game Studios",3.54,1.9,0.07,0.6,6.11
+"132",143,"Metal Gear Solid 2: Sons of Liberty","PS2",2001,"Action","Konami Digital Entertainment",2.45,2.01,0.87,0.72,6.05
+"133",144,"Sonic the Hedgehog 2","GEN",1992,"Platform","Sega",4.47,1.2,0.16,0.19,6.03
+"134",145,"Metal Gear Solid 4: Guns of the Patriots","PS3",2008,"Action","Konami Digital Entertainment",2.63,1.74,0.83,0.83,6.03
+"135",146,"Metal Gear Solid","PS",1998,"Action","Konami Digital Entertainment",3.18,1.83,0.78,0.24,6.03
+"136",147,"The Last of Us","PS3",2013,"Action","Sony Computer Entertainment Europe",2.41,2.28,0.28,1.01,5.99
+"137",149,"LittleBigPlanet","PS3",2008,"Platform","Sony Computer Entertainment",2.8,2.05,0.17,0.9,5.92
+"138",151,"LEGO Star Wars: The Complete Saga","Wii",2007,"Action","LucasArts",3.66,1.63,0,0.53,5.83
+"139",152,"Resident Evil 2","PS",1998,"Action","Virgin Interactive",1.88,1.47,2.02,0.45,5.82
+"140",153,"Tekken 2","PS",1996,"Fighting","Sony Computer Entertainment",2.26,1.89,1.36,0.23,5.74
+"141",154,"Cooking Mama","DS",2006,"Simulation","505 Games",3.13,1.94,0.07,0.58,5.72
+"142",155,"Destiny","PS4",2014,"Shooter","Activision",2.49,2.05,0.16,0.96,5.65
+"143",157,"Assassin's Creed II","PS3",2009,"Action","Ubisoft",2.54,1.95,0.21,0.87,5.57
+"144",159,"Assassin's Creed","X360",2007,"Adventure","Ubisoft",3.28,1.65,0.07,0.55,5.55
+"145",160,"Batman: Arkham City","PS3",2011,"Action","Warner Bros. Interactive Entertainment",2.7,1.91,0.11,0.8,5.53
+"146",161,"Forza Motorsport 3","X360",2009,"Racing","Microsoft Game Studios",2.99,1.92,0.1,0.51,5.51
+"147",163,"Super Mario Advance","GBA",2001,"Platform","Nintendo",3.14,1.24,0.91,0.2,5.49
+"148",164,"Mario Kart: Super Circuit","GBA",2001,"Racing","Nintendo",2.62,1.64,0.99,0.23,5.47
+"149",165,"Super Mario World","GBA",2001,"Platform","Nintendo",3.21,1.11,0.95,0.2,5.46
+"150",166,"Pokemon Stadium","N64",1999,"Strategy","Nintendo",3.18,1.24,0.94,0.09,5.45
+"151",167,"Call of Duty: World at War","PS3",2008,"Shooter","Activision",2.72,1.87,0,0.84,5.43
+"152",168,"Crash Bandicoot: The Wrath of Cortex","PS2",2001,"Platform","Universal Interactive",2.07,2.29,0.24,0.82,5.42
+"153",169,"Minecraft","PS3",2014,"Misc","Sony Computer Entertainment",1.97,2.51,0,0.94,5.42
+"154",170,"Final Fantasy XIII","PS3",2009,"Role-Playing","Square Enix",1.74,1.24,1.87,0.52,5.36
+"155",172,"Pokemon Pinball","GB",1999,"Misc","Nintendo",3.02,1.12,1.01,0.16,5.31
+"156",173,"Assassin's Creed III","X360",2012,"Action","Ubisoft",3.13,1.71,0.03,0.44,5.3
+"157",175,"Final Fantasy X-2","PS2",2003,"Role-Playing","Electronic Arts",1.92,1.08,2.11,0.17,5.29
+"158",177,"Assassin's Creed II","X360",2009,"Action","Ubisoft",3.1,1.56,0.08,0.51,5.27
+"159",178,"Professor Layton and the Curious Village","DS",2007,"Puzzle","Nintendo",1.22,2.48,1.03,0.52,5.26
+"160",179,"Tomb Raider II","PS",1997,"Action","Eidos Interactive",2.3,2.46,0.2,0.28,5.24
+"161",182,"Diablo III","PC",2012,"Role-Playing","Activision",2.43,2.15,0,0.62,5.2
+"162",183,"Super Mario Bros. 3","GBA",2003,"Platform","Nintendo",2.93,1.25,0.83,0.2,5.2
+"163",184,"New Super Mario Bros. U","WiiU",2012,"Platform","Nintendo",2.32,1.3,1.27,0.31,5.19
+"164",186,"FIFA Soccer 13","X360",2012,"Action","Electronic Arts",1.08,3.48,0.03,0.58,5.18
+"165",187,"The Legend of Zelda: Phantom Hourglass","DS",2007,"Action","Nintendo",1.9,1.83,0.95,0.49,5.17
+"166",190,"Mario & Sonic at the Olympic Games","DS",2008,"Sports","Sega",1.64,2.48,0.44,0.58,5.14
+"167",191,"Medal of Honor: Rising Sun","PS2",2003,"Shooter","Electronic Arts",1.98,2.23,0.13,0.8,5.13
+"168",193,"Fable III","X360",2010,"Role-Playing","Microsoft Game Studios",3.59,1.11,0.05,0.38,5.13
+"169",194,"Call of Duty: Advanced Warfare","XOne",2014,"Shooter","Activision",3.21,1.53,0.01,0.38,5.13
+"170",195,"Microsoft Flight Simulator","PC",1996,"Simulation","Microsoft Game Studios",3.22,1.69,0,0.2,5.12
+"171",197,"Resident Evil 5","PS3",2009,"Action","Capcom",1.96,1.43,1.08,0.65,5.11
+"172",198,"Grand Theft Auto V","XOne",2014,"Action","Take-Two Interactive",2.66,2.01,0,0.41,5.08
+"173",199,"Grand Theft Auto: Vice City Stories","PSP",2006,"Action","Take-Two Interactive",1.7,2.02,0.16,1.21,5.08
+"174",201,"Super Mario Bros.","GB",1999,"Platform","Nintendo",3.4,1.3,0.15,0.22,5.07
+"175",202,"Resident Evil","PS",1996,"Action","Virgin Interactive",2.05,1.16,1.11,0.73,5.05
+"176",203,"Tony Hawk's Pro Skater","PS",1999,"Sports","Activision",3.42,1.38,0.02,0.2,5.02
+"177",204,"Super Smash Bros. for Wii U and 3DS","WiiU",2014,"Fighting","Nintendo",2.59,1.06,0.8,0.57,5.02
+"178",205,"Warzone 2100","PS",1999,"Strategy","Eidos Interactive",2.79,1.89,0,0.33,5.01
+"179",206,"Spyro the Dragon","PS",1998,"Platform","Sony Computer Entertainment",3.36,1.36,0.07,0.21,5
+"180",207,"Link's Crossbow Training","Wii",2007,"Shooter","Nintendo",3.06,1.18,0.29,0.46,5
+"181",209,"Fallout 3","X360",2008,"Role-Playing","Bethesda Softworks",3.39,1.03,0.09,0.44,4.96
+"182",210,"Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness","DS",2007,"Role-Playing","Nintendo",1.85,1.2,1.54,0.37,4.96
+"183",211,"Uncharted: Drake's Fortune","PS3",2007,"Action","Sony Computer Entertainment",2.31,1.73,0.12,0.78,4.94
+"184",213,"LEGO Star Wars: The Complete Saga","DS",2007,"Action","LucasArts",2.89,1.54,0,0.46,4.9
+"185",217,"God of War III","PS3",2010,"Action","Sony Computer Entertainment",2.74,1.36,0.12,0.63,4.84
+"186",218,"StarCraft II: Wings of Liberty","PC",2010,"Strategy","Activision",2.56,1.68,0,0.59,4.83
+"187",219,"Assassin's Creed","PS3",2007,"Adventure","Ubisoft",1.91,2,0.09,0.83,4.83
+"188",221,"Crash Team Racing","PS",1999,"Racing","Sony Computer Entertainment",2.57,1.57,0.44,0.21,4.79
+"189",223,"Batman: Arkham City","X360",2011,"Action","Warner Bros. Interactive Entertainment",2.99,1.31,0.04,0.41,4.76
+"190",224,"Driver 2","PS",2000,"Action","Atari",2.36,2.1,0.02,0.25,4.73
+"191",225,"The Simpsons: Hit & Run","PS2",2003,"Racing","Vivendi Games",1.73,2.19,0,0.79,4.7
+"192",226,"Tony Hawk's Pro Skater 2","PS",2000,"Sports","Activision",3.05,1.41,0.02,0.2,4.68
+"193",227,"Animal Crossing: City Folk","Wii",2008,"Simulation","Nintendo",1.87,1.12,1.32,0.37,4.68
+"194",228,"The Lord of the Rings: The Two Towers","PS2",2002,"Action","Electronic Arts",1.94,1.95,0.08,0.7,4.67
+"195",229,"Forza Motorsport 4","X360",2011,"Racing","Microsoft Game Studios",2.08,2.04,0.06,0.47,4.64
+"196",230,"Tomb Raider","PS",1996,"Action","Eidos Interactive",2.29,1.97,0.13,0.24,4.63
+"197",231,"Guitar Hero III: Legends of Rock","Wii",2007,"Misc","Activision",3.06,1.12,0,0.44,4.62
+"198",234,"Mario & Sonic at the Olympic Winter Games","Wii",2009,"Sports","Sega",1.89,1.99,0.22,0.48,4.58
+"199",235,"Luigi's Mansion: Dark Moon","3DS",2013,"Action","Nintendo",1.78,1.39,1.1,0.3,4.58
+"200",236,"Splatoon","WiiU",2015,"Shooter","Nintendo",1.55,1.15,1.44,0.43,4.57
+"201",237,"The Last of Us","PS4",2014,"Action","Sony Computer Entertainment",1.78,1.87,0.07,0.82,4.55
+"202",242,"Spider-Man: The Movie","PS2",2002,"Action","Activision",2.71,1.51,0.03,0.23,4.48
+"203",244,"Uncharted: The Nathan Drake Collection","PS4",2015,"Action","Sony Computer Entertainment",1.96,1.69,0.08,0.74,4.47
+"204",245,"Call of Duty: Advanced Warfare","PS3",2014,"Shooter","Activision",1.54,1.94,0.19,0.77,4.45
+"205",246,"God of War","PS2",2005,"Action","Sony Computer Entertainment",2.71,1.29,0.02,0.43,4.45
+"206",247,"Nintendo Land","WiiU",2012,"Misc","Nintendo",2.55,1.11,0.46,0.33,4.44
+"207",248,"Michael Jackson: The Experience","Wii",2010,"Misc","Ubisoft",2.67,1.35,0.01,0.39,4.42
+"208",249,"Tony Hawk's Pro Skater 3","PS2",2001,"Sports","Activision",2.66,1.29,0.01,0.46,4.41
+"209",251,"The Elder Scrolls IV: Oblivion","X360",2006,"Role-Playing","Take-Two Interactive",2.82,1.05,0.13,0.4,4.39
+"210",253,"Need for Speed: Most Wanted","PS2",2005,"Racing","Electronic Arts",2.03,1.79,0.08,0.47,4.37
+"211",254,"Resistance: Fall of Man","PS3",2006,"Shooter","Sony Computer Entertainment",1.73,1.73,0.14,0.75,4.35
+"212",258,"Call of Duty: Advanced Warfare","X360",2014,"Shooter","Activision",2.75,1.18,0,0.37,4.31
+"213",260,"Fable II","X360",2008,"Role-Playing","Microsoft Game Studios",2.51,1.27,0.11,0.41,4.31
+"214",261,"Halo 5: Guardians","XOne",2015,"Shooter","Microsoft Game Studios",2.64,1.2,0.03,0.39,4.26
+"215",262,"Super Mario 3D World","WiiU",2013,"Platform","Nintendo",2.11,1.11,0.72,0.3,4.25
+"216",263,"Batman: Arkham Asylum","PS3",2009,"Action","Eidos Interactive",2.23,1.34,0.07,0.61,4.25
+"217",264,"Assassin's Creed: Revelations","PS3",2011,"Action","Ubisoft",1.41,2.02,0.1,0.72,4.24
+"218",265,"Namco Museum","GBA",2001,"Misc","Namco Bandai Games",3,1.11,0.05,0.07,4.24
+"219",267,"Daxter","PSP",2006,"Platform","Sony Computer Entertainment",2.45,1.02,0,0.75,4.22
+"220",268,"Warcraft II: Tides of Darkness","PC",1995,"Strategy","Activision",1.7,2.27,0,0.23,4.21
+"221",269,"The Legend of Zelda: Ocarina of Time","3DS",2011,"Action","Nintendo",2.03,1.27,0.62,0.3,4.21
+"222",272,"Uncharted 4: A Thief's End","PS4",2016,"Shooter","Sony Computer Entertainment",1.3,2.07,0.18,0.65,4.2
+"223",273,"Gran Turismo 5 Prologue","PS3",2007,"Racing","Sony Computer Entertainment",1.28,1.83,0.57,0.53,4.2
+"224",274,"Assassin's Creed: Revelations","X360",2011,"Action","Ubisoft",2.25,1.47,0.04,0.43,4.19
+"225",275,"Street Fighter IV","PS3",2009,"Fighting","Capcom",2.02,1.06,0.58,0.53,4.19
+"226",281,"Watch Dogs","PS4",2014,"Action","Ubisoft",1.4,1.86,0.11,0.77,4.14
+"227",285,"The Legend of Zelda: Skyward Sword","Wii",2011,"Action","Nintendo",2.14,1.2,0.37,0.4,4.1
+"228",287,"Carnival Games","Wii",2007,"Misc","Take-Two Interactive",2.13,1.5,0.05,0.42,4.1
+"229",288,"Fallout 4","XOne",2015,"Role-Playing","Bethesda Softworks",2.45,1.26,0.01,0.37,4.09
+"230",289,"World of Warcraft: The Burning Crusade","PC",2007,"Role-Playing","Activision",2.57,1.52,0,0,4.09
+"231",290,"Fallout: New Vegas","X360",2010,"Role-Playing","Bethesda Softworks",2.65,1.06,0.04,0.33,4.08
+"232",292,"Forza Motorsport 2","X360",2007,"Racing","Microsoft Game Studios",2.35,1.28,0.03,0.41,4.06
+"233",294,"Namco Museum Vol.3","PS",1996,"Misc","Sony Computer Entertainment",2.28,1.55,0.16,0.06,4.05
+"234",295,"Tekken Tag Tournament","PS2",2000,"Fighting","Namco Bandai Games",1.68,1.51,0.51,0.35,4.05
+"235",296,"Far Cry 4","PS4",2014,"Shooter","Ubisoft",1.12,2.12,0.1,0.69,4.03
+"236",298,"Minecraft","PS4",2014,"Misc","Sony Computer Entertainment Europe",1.38,1.87,0.12,0.65,4.02
+"237",300,"Fallout 3","PS3",2008,"Role-Playing","Bethesda Softworks",2.15,1.2,0.07,0.59,4.01
+"238",303,"Namco Museum: 50th Anniversary","PS2",2005,"Misc","Namco Bandai Games",2.08,1.35,0,0.54,3.98
+"239",304,"EA Sports Active","Wii",2009,"Sports","Electronic Arts",2.1,1.36,0.06,0.4,3.92
+"240",305,"Assassin's Creed: Unity","PS4",2014,"Action","Ubisoft",1.18,1.96,0.08,0.7,3.92
+"241",307,"Tony Hawk's Underground","PS2",2003,"Sports","Activision",2.29,1.17,0.01,0.42,3.9
+"242",308,"Assassin's Creed IV: Black Flag","PS3",2013,"Action","Ubisoft",1.33,1.71,0.13,0.73,3.89
+"243",310,"MotorStorm","PS3",2006,"Racing","Sony Computer Entertainment",1.53,1.61,0.06,0.67,3.88
+"244",311,"The Elder Scrolls V: Skyrim","PC",2011,"Role-Playing","Bethesda Softworks",1.15,2.09,0,0.64,3.88
+"245",314,"Sports Champions","PS3",2010,"Sports","Sony Computer Entertainment",2.12,1.14,0.1,0.51,3.87
+"246",318,"Namco Museum Vol.1","PS",1995,"Misc","Sony Computer Entertainment",2.12,1.44,0.22,0.06,3.84
+"247",321,"Big Brain Academy: Wii Degree","Wii",2007,"Misc","Nintendo",1.06,1.93,0.41,0.43,3.82
+"248",322,"Nintendogs + cats","3DS",2011,"Simulation","Nintendo",1.44,1.37,0.73,0.27,3.81
+"249",323,"Batman: Arkham Knight","PS4",2015,"Action","Warner Bros. Interactive Entertainment",1.49,1.58,0.1,0.61,3.79
+"250",324,"Mario & Sonic at the London 2012 Olympic Games","Wii",2011,"Sports","Sega",1.14,1.91,0.27,0.46,3.78
+"251",325,"LEGO Indiana Jones: The Original Adventures","X360",2008,"Action","Activision",2.4,1.03,0,0.36,3.78
+"252",326,"Resident Evil Director's Cut","PS",1996,"Action","Virgin Interactive",1.82,1.24,0.47,0.25,3.77
+"253",327,"Ratchet & Clank: Size Matters","PSP",2007,"Platform","Sony Computer Entertainment",1.4,1.4,0.1,0.87,3.77
+"254",328,"Just Dance 2014","Wii",2013,"Misc","Ubisoft",1.98,1.47,0,0.32,3.76
+"255",329,"The Sims: Unleashed","PC",2002,"Simulation","Electronic Arts",2.03,1.56,0,0.17,3.76
+"256",331,"Harry Potter and the Sorcerer's Stone","PS",2001,"Action","Electronic Arts",1.37,2,0.14,0.22,3.73
+"257",334,"Spyro: Year of the Dragon","PS",2000,"Platform","Sony Computer Entertainment",1.93,1.58,0,0.19,3.71
+"258",337,"Battlefield 4","PS3",2013,"Shooter","Electronic Arts",1.3,1.51,0.27,0.61,3.69
+"259",338,"MySims","DS",2007,"Simulation","Electronic Arts",1.59,1.61,0.08,0.41,3.69
+"260",340,"Tony Hawk's Pro Skater 4","PS2",2002,"Sports","Activision",2.13,1.18,0.01,0.35,3.67
+"261",341,"Midnight Club 3: DUB Edition","PSP",2005,"Racing","Take-Two Interactive",1.65,1.22,0,0.79,3.66
+"262",342,"Banjo-Kazooie","N64",1998,"Platform","Nintendo",1.87,1.13,0.55,0.1,3.65
+"263",346,"Jak and Daxter: The Precursor Legacy","PS2",2001,"Platform","Sony Computer Entertainment",2.08,1.09,0.15,0.33,3.64
+"264",350,"Call of Duty: Ghosts","PS4",2013,"Shooter","Activision",1.78,1.42,0.05,0.38,3.63
+"265",352,"Tom Clancy's The Division","PS4",2016,"Shooter","Ubisoft",1.28,1.61,0.15,0.57,3.61
+"266",353,"Star Wars: Battlefront","PS2",2004,"Shooter","LucasArts",1.93,1.22,0.03,0.44,3.61
+"267",354,"Doom II: Hell on Earth","PC",1994,"Shooter","Virgin Interactive",2.05,1.4,0,0.16,3.61
+"268",355,"The Simpsons: Road Rage","PS2",2001,"Racing","Electronic Arts",2.02,1.17,0,0.42,3.61
+"269",356,"Cooking Mama 2: Dinner With Friends","DS",2007,"Simulation","505 Games",1.61,1.5,0.1,0.39,3.61
+"270",358,"Star Wars: Battlefront II","PS2",2005,"Shooter","LucasArts",2.18,1.02,0.03,0.37,3.59
+"271",359,"WWF SmackDown!","PS",2000,"Fighting","THQ",2.01,1.35,0.06,0.16,3.58
+"272",360,"Croc: Legend of the Gobbos","PS",1997,"Platform","Fox Interactive",1.57,1.79,0,0.2,3.56
+"273",361,"Grand Theft Auto: Liberty City Stories","PS2",2006,"Action","Take-Two Interactive",1.56,1.4,0.07,0.5,3.54
+"274",362,"The Getaway","PS2",2002,"Action","Sony Computer Entertainment",1.23,1.77,0.05,0.49,3.54
+"275",363,"Tomb Raider III: Adventures of Lara Croft","PS",1997,"Action","Eidos Interactive",1.66,1.58,0.12,0.18,3.54
+"276",364,"James Bond 007: Agent Under Fire","PS2",2001,"Shooter","Electronic Arts",1.9,1.13,0.1,0.41,3.53
+"277",365,"LEGO Star Wars: The Video Game","PS2",2005,"Action","Eidos Interactive",1.98,1.14,0.01,0.41,3.53
+"278",366,"Battlefield 4","X360",2013,"Shooter","Electronic Arts",2.14,1.08,0.02,0.29,3.53
+"279",368,"Rugrats in Paris: The Movie","PS",2000,"Action","THQ",1.96,1.33,0,0.23,3.52
+"280",369,"Spyro 2: Ripto's Rage!","PS",1999,"Platform","Sony Computer Entertainment",2.14,1.21,0.01,0.17,3.52
+"281",371,"Mario & Sonic at the Olympic Winter Games","DS",2009,"Sports","Sega",1.22,1.66,0.27,0.38,3.52
+"282",379,"Star Wars Battlefront (2015)","XOne",2015,"Shooter","Electronic Arts",1.94,1.22,0.02,0.31,3.49
+"283",380,"Battlefield: Bad Company 2","X360",2010,"Shooter","Electronic Arts",2.09,1.02,0.04,0.32,3.48
+"284",381,"Guitar Hero: On Tour","DS",2008,"Misc","Activision",2.11,1.01,0.01,0.35,3.48
+"285",386,"Tekken 4","PS2",2002,"Fighting","Namco Bandai Games",1.55,1.27,0.33,0.29,3.44
+"286",387,"Battlefield 4","PS4",2013,"Shooter","Electronic Arts",1.34,1.54,0.17,0.38,3.43
+"287",388,"LittleBigPlanet 2","PS3",2011,"Platform","Sony Computer Entertainment",1.82,1.07,0.06,0.47,3.42
+"288",389,"Grand Theft Auto 2","PS",1998,"Action","Take-Two Interactive",1.13,2.07,0,0.22,3.42
+"289",391,"Spider-Man 2","PS2",2004,"Action","Activision",1.75,1.2,0.02,0.43,3.41
+"290",394,"Crash Bash","PS",2000,"Misc","Sony Computer Entertainment",1.56,1.47,0.19,0.17,3.39
+"291",395,"LEGO Batman: The Videogame","X360",2008,"Action","Warner Bros. Interactive Entertainment",2.03,1.03,0,0.32,3.38
+"292",396,"Metal Gear Solid V: The Phantom Pain","PS4",2015,"Action","Konami Digital Entertainment",1.08,1.35,0.48,0.47,3.38
+"293",401,"Rugrats: Search For Reptar","PS",1998,"Adventure","THQ",1.63,1.53,0,0.18,3.34
+"294",402,"Assassin's Creed IV: Black Flag","X360",2013,"Action","Ubisoft",1.9,1.14,0.01,0.29,3.34
+"295",404,"James Bond 007: Nightfire","PS2",2002,"Shooter","Electronic Arts",1.45,1.29,0.12,0.46,3.33
+"296",405,"Ratchet & Clank","PS2",2002,"Platform","Sony Computer Entertainment",1.44,1.01,0.57,0.3,3.33
+"297",406,"Mario Party 9","Wii",2012,"Misc","Nintendo",1.15,1.17,0.76,0.24,3.32
+"298",407,"Star Wars Episode III: Revenge of the Sith","PS2",2005,"Action","LucasArts",1.47,1.39,0.03,0.43,3.32
+"299",408,"Max Payne","PS2",2001,"Shooter","Take-Two Interactive",1.99,1.05,0.05,0.22,3.31
+"300",409,"The Lord of the Rings: The Return of the King","PS2",2003,"Action","Electronic Arts",1.5,1.28,0.05,0.46,3.28
+"301",412,"True Crime: Streets of LA","PS2",2003,"Action","Activision",1.89,1.05,0.02,0.31,3.27
+"302",413,"Wii Music","Wii",2008,"Misc","Nintendo",1.36,1.13,0.46,0.32,3.27
+"303",418,"L.A. Noire","PS3",2011,"Adventure","Take-Two Interactive",1.27,1.33,0.12,0.51,3.23
+"304",421,"007: Tomorrow Never Dies","PS",1999,"Shooter","Electronic Arts",1.72,1.33,0,0.16,3.21
+"305",424,"WWF SmackDown! 2: Know Your Role","PS",2000,"Fighting","THQ",1.76,1.21,0.07,0.16,3.2
+"306",426,"God of War: Chains of Olympus","PSP",2008,"Action","Sony Computer Entertainment",1.48,1.01,0.04,0.66,3.19
+"307",429,"Enter the Matrix","PS2",2003,"Action","Atari",1.78,1.12,0.09,0.19,3.18
+"308",431,"Fallout: New Vegas","PS3",2010,"Role-Playing","Bethesda Softworks",1.52,1.08,0.1,0.47,3.17
+"309",437,"LEGO Batman: The Videogame","DS",2008,"Action","Warner Bros. Interactive Entertainment",1.79,1.06,0,0.29,3.15
+"310",438,"Sonic Rush","DS",2005,"Platform","Sega",1.22,1.57,0.06,0.29,3.15
+"311",442,"Spider-Man","PS",2000,"Action","Activision",1.7,1.25,0.02,0.16,3.13
+"312",448,"Heavy Rain","PS3",2010,"Adventure","Sony Computer Entertainment",1.29,1.27,0.06,0.5,3.12
+"313",457,"The Sims: Vacation","PC",2002,"Simulation","Electronic Arts",1.72,1.21,0,0.14,3.07
+"314",460,"Far Cry 3","X360",2012,"Shooter","Ubisoft",1.38,1.35,0.02,0.28,3.04
+"315",463,"Rayman","PS",1995,"Platform","Ubisoft",1.54,1.33,0,0.16,3.03
+"316",464,"Killzone 2","PS3",2009,"Shooter","Sony Computer Entertainment",1.4,1.07,0.08,0.47,3.02
+"317",465,"Tom Clancy's Splinter Cell","XB",2002,"Action","Ubisoft",1.85,1.04,0,0.13,3.02
+"318",467,"WWE SmackDown! Shut Your Mouth","PS2",2002,"Sports","THQ",1.45,1.13,0.07,0.38,3.02
+"319",472,"Middle-Earth: Shadow of Mordor","PS4",2014,"Action","Warner Bros. Interactive Entertainment",1.01,1.41,0.05,0.53,2.99
+"320",474,"The Sims: Livin Large","PC",2000,"Misc","Electronic Arts",1.67,1.18,0,0.13,2.99
+"321",478,"Battlefield: Bad Company 2","PS3",2010,"Shooter","Electronic Arts",1.33,1.12,0.08,0.45,2.97
+"322",480,"Star Wars: The Old Republic","PC",2011,"Role-Playing","Electronic Arts",1.58,1.01,0,0.38,2.97
+"323",481,"Sonic Heroes","PS2",2003,"Platform","Sega",1.04,1.37,0.06,0.49,2.96
+"324",483,"Hitman 2: Silent Assassin","PS2",2002,"Action","Eidos Interactive",1.36,1.15,0.04,0.41,2.96
+"325",487,"WWE SmackDown! vs. RAW 2006","PS2",2005,"Fighting","THQ",1.45,1.11,0.04,0.33,2.94
+"326",492,"Cooking Mama: Cook Off","Wii",2007,"Simulation","505 Games",1.43,1.13,0.05,0.3,2.91
+"327",496,"Sonic Mega Collection Plus","PS2",2004,"Misc","Sega",1.54,1.14,0,0.22,2.9
+"328",501,"Call of Duty: Finest Hour","PS2",2004,"Shooter","Activision",1.51,1.12,0.01,0.24,2.89
+"329",502,"Zumba Fitness 2","Wii",2011,"Sports","Majesco Entertainment",1.54,1.07,0,0.28,2.88
+"330",504,"Imagine: Babyz","DS",2007,"Simulation","Ubisoft",1.3,1.27,0,0.31,2.88
+"331",512,"Command & Conquer: Red Alert","PC",1996,"Strategy","Virgin Interactive",1.37,1.34,0,0.14,2.85
+"332",513,"Skylanders: Spyro's Adventure","Wii",2011,"Action","Activision",1.4,1.14,0,0.31,2.85
+"333",518,"Medal of Honor","PS3",2010,"Shooter","Electronic Arts",1.28,1.05,0.07,0.43,2.83
+"334",519,"WWE SmackDown! vs. Raw","PS2",2002,"Fighting","THQ",1.32,1.08,0.04,0.39,2.83
+"335",521,"Finding Nemo","GBA",2003,"Action","THQ",1.59,1.05,0.04,0.14,2.82
+"336",523,"Need for Speed: Hot Pursuit","PS3",2010,"Racing","Electronic Arts",1.05,1.25,0.03,0.48,2.81
+"337",524,"Imagine: Fashion Designer","DS",2007,"Simulation","Ubisoft",1.32,1.19,0,0.3,2.81
+"338",525,"WWE SmackDown! Here Comes the Pain","PS2",2003,"Fighting","THQ",1.32,1.06,0.04,0.38,2.8
+"339",531,"WWF SmackDown! Just Bring It","PS2",2001,"Fighting","THQ",1.19,1.15,0.04,0.41,2.79
+"340",542,"The Sims","PS2",2003,"Simulation","Electronic Arts",1.41,1.12,0,0.24,2.77
+"341",543,"Sonic and the Secret Rings","Wii",2007,"Platform","Sega",1.24,1.2,0.04,0.3,2.77
+"342",544,"Saints Row: The Third","X360",2011,"Action","THQ",1.25,1.15,0.07,0.3,2.77
+"343",547,"Assassin's Creed IV: Black Flag","PS4",2013,"Action","Ubisoft",1.07,1.31,0.06,0.31,2.74
+"344",561,"Burnout 3: Takedown","PS2",2004,"Racing","Electronic Arts",1.23,1.11,0,0.34,2.68
+"345",568,"Medal of Honor","PS",1998,"Shooter","Electronic Arts",1.44,1.09,0,0.14,2.67
+"346",571,"Tom Clancy's Splinter Cell","PS2",2003,"Action","Ubisoft",1.15,1.11,0,0.4,2.65
+"347",582,"Mario Strikers Charged","Wii",2007,"Sports","Nintendo",1.07,1.06,0.24,0.25,2.62
+"348",595,"Ghostbusters: The Video Game (DS Version)","X360",2009,"Action","Take-Two Interactive",1.04,1.24,0.03,0.27,2.58
+"349",609,"Crazy Taxi","PS2",2001,"Racing","Acclaim Entertainment",1.13,1.12,0.06,0.22,2.52
+"350",623,"Tomb Raider: The Last Revelation","PS",1998,"Action","Eidos Interactive",1.15,1.14,0.06,0.13,2.48
+"351",635,"The Sims: Bustin' Out","PS2",2003,"Simulation","Electronic Arts",1.07,1.19,0,0.18,2.43
+"352",673,"LEGO Harry Potter: Years 1-4","DS",2010,"Action","Warner Bros. Interactive Entertainment",1.07,1.05,0,0.23,2.35
